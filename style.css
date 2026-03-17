@@ -311,6 +311,10 @@ section {
     margin: auto 0;
 }
 
+.text-container p {
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+}
 
 /* EXPERIENCE SECTION */
 
